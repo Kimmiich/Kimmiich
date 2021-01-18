@@ -1,4 +1,4 @@
-### Hi, my name Kimmie 👋
+### Hi, my name is Kimmie 👋
 
 # I'm a frontend developer in the making, studying at Medieinstitutet.
 
