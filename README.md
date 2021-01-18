@@ -1,6 +1,6 @@
-### Hi, my name is Kimmie 👋
+# Hi, my name is Kimmie 👋
 
-# I'm a frontend developer in the making, currently studying at Medieinstitutet.
+### I'm a frontend developer in the making, currently studying at Medieinstitutet.
 
 
 Here are some ideas to get you started:
