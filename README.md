@@ -5,6 +5,6 @@
 - 👯 I’m looking for internship 2022
 - 📚 Skills so far: <br>
       ✅ HTML & CSS <br>
-      ✅ SASS
+      ✅ SASS <br>
       ✅ JAVASCRIPT
       
