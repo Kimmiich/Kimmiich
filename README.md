@@ -6,5 +6,5 @@
 - 📚 Skills so far:
       ✅ HTML & CSS
       ✅ SASS
-      ✅ JAVASCRIPT (Vanilla)
+      ✅ JAVASCRIPT
       
