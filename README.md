@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning node.js and express.js.
 - 👯 I’m looking for internship 2022
 - 📚 Skills so far:
-     -[x] HTML & CSS 
-     -[x] SASS 
-     -[x] JAVASCRIPT
-     -[x] GIT & GITHUB
+     - [x] HTML & CSS 
+     - [x] SASS 
+     - [x] JAVASCRIPT
+     - [x] GIT & GITHUB
       
       
