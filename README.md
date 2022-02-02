@@ -14,7 +14,7 @@
  - [x] Typescript & Redux
  - [x] UX & UI
  - [x] Adobe XD & Figma
- - [x] Photoshop
+ 
   
 
       
