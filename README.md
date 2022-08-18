@@ -10,7 +10,7 @@
  - [x] JAVASCRIPT
  - [x] NODE.JS & EXPRESS.JS
  - [x] SQL & NoSQL (MySQL, MongoDB & MongoAtlas)
- - [x] React, Vue & Svelte
+ - [x] React, NextJS, Vue & Svelte
  - [x] Typescript & Redux
  - [x] UX & UI
  - [x] Adobe XD & Figma
