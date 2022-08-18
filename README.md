@@ -7,6 +7,7 @@
  **📚 Skills so far:**
  - [x] HTML & CSS 
  - [x] SASS 
+ - [x] Tailwind & Bootstrap 
  - [x] JAVASCRIPT
  - [x] NODE.JS & EXPRESS.JS
  - [x] SQL & NoSQL (MySQL, MongoDB & MongoAtlas)
