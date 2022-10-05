@@ -2,7 +2,6 @@
 
 ### I'm a frontend developer in the making, currently studying at Medieinstitutet.
  🔍 I really like solving puzzles and problems. <br>
- 🌱 I’m currently doing my final intern and will graduate in september 2022! <br>
  👯 Intrested in connecting? [Connect via LinkedIn](https://www.linkedin.com/in/kimmie-lundgren-620401201/) <br>
  **📚 Skills so far:**
  - [x] HTML & CSS 
