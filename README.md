@@ -3,7 +3,7 @@
 ### I'm a frontend developer in the making, currently studying at Medieinstitutet.
  🔍 I really like solving puzzles and problems. <br>
  👯 Intrested in connecting? [Connect via LinkedIn](https://www.linkedin.com/in/kimmie-lundgren-620401201/) <br>
- **📚 Skills so far:**
+ **📚 Some of my skills:**
  - [x] HTML & CSS 
  - [x] SASS 
  - [x] Tailwind & Bootstrap 
