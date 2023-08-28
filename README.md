@@ -1,6 +1,6 @@
 # Hi, my name is Kimmie 👋
 
-### I'm a frontend developer in the making, currently studying at Medieinstitutet.
+### I'm a frontend developer
  🔍 I really like solving puzzles and problems. <br>
  👯 Intrested in connecting? [Connect via LinkedIn](https://www.linkedin.com/in/kimmie-lundgren-620401201/) <br>
  **📚 Some of my skills:**
@@ -14,6 +14,7 @@
  - [x] Typescript & Redux
  - [x] UX & UI
  - [x] Adobe XD & Figma
+ - [x] React native
  
   
 
