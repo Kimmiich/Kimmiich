@@ -1,6 +1,6 @@
 # Hi, my name is Kimmie 👋
 
-### I'm a frontend developer
+### I'm a developer
  🔍 I really like solving puzzles and problems. <br>
  👯 Intrested in connecting? [Connect via LinkedIn](https://www.linkedin.com/in/kimmie-lundgren-620401201/) <br>
  **📚 Some of my skills:**
